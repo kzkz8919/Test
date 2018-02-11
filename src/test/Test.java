@@ -10,8 +10,9 @@ public class Test {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("");
+		Son son = new Son();
+		son.print();
+//		System.out.println("");
 	}
 
 }
